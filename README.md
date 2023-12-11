@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Boris Milev](https://github.com/BRMilev22)
+### Hi there 👋 I'm Boris Milev
 
 ## I'm a student as VSCPI
 
@@ -30,6 +30,6 @@
 
 ---
 
-Credit: [BRMilev22](https://github.com/BRMilev22)
+Credit: BRMilev22
 
 Last edited on: 11/12/2023
