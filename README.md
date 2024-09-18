@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Boris Milev
 
-## I'm a student as VSCPI
+## I'm a student at VSCPI
 
-- 👨‍💻 I’m currently studying programming in VSCPI.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 <br>
@@ -32,4 +31,4 @@
 
 Credit: BRMilev22
 
-Last edited on: 11/12/2023
+Last edited on: 18/09/2024
