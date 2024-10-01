@@ -8,7 +8,14 @@
 <p>
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
+
 <br>
+
+<div align="center">
+  <div style="align: center"> 
+      <img src = "https://github-readme-stats.vercel.app/api?username=brmilev22&theme=swift"/>
+  </div>
+</div>
 
 ##### Languages I use
 
@@ -31,4 +38,4 @@
 
 Credit: BRMilev22
 
-Last edited on: 18/09/2024
+Last edited on: 01/10/2024
