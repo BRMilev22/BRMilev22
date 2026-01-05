@@ -19,6 +19,18 @@ Building mobile and web platforms for connecting people with events and communit
 - **Mobile Development**: React Native app with Expo Go, featuring user onboarding, interest selection, profile management with image uploads, and smooth UI interactions
 - **Web Development**: Next.js and Tailwind CSS platform with event discovery, dynamic event pages, category browsing, event listings, and sharing capabilities
 
+---
+
+**System Administrator / Full-Stack Developer at Pachkov Furniture LTD** (Dec 2025 - Present)  
+Managing the complete IT infrastructure and developing internal systems to support manufacturing and business operations.
+
+- **IT Infrastructure**: Hardware assembly, workstation setup, internal networking, and ongoing technical support
+- **System Administration**: Windows Server, Active Directory, user management, permissions, backups, and monitoring
+- **ERP Development**: Design, development, and maintenance of a custom ERP system tailored to production, inventory, orders, and reporting workflows
+- **Full-Stack Development**: Backend and frontend development of ERP modules using PHP and JavaScript
+- **Database Management**: MySQL database design, optimization, and maintenance
+- **Process Automation**: Development of internal tools and integrations to improve operational efficiency
+
 ## Notable Projects
 
 **[DBForge](https://github.com/brmilev22/dbforge)** - Cloud database service  
@@ -48,12 +60,6 @@ Co-developed with Veselin Boyanov
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=BRMilev22&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRMilev22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Connect
 
