@@ -13,12 +13,24 @@ I'm passionate about using modern development tools to create efficient and user
 
 ## Current Work
 
-**Frontend Developer at JoinUs** (Oct 2025 - Present)  
-Building mobile and web platforms for connecting people with events and communities.
+**System Administrator / Full-Stack Developer at Pachkov Furniture LTD** (Dec 2025 - Present)  
+Managing IT infrastructure and developing internal systems to support manufacturing and business operations.
+
+- **IT Infrastructure**: Hardware assembly, workstation setup, internal networking, and ongoing technical support
+- **System Administration**: Windows Server, Active Directory, user management, permissions, backups, and monitoring
+- **ERP Development**: Design, development, and maintenance of a custom ERP system tailored to production, inventory, orders, and reporting workflows
+- **Full-Stack Development**: Backend and frontend development of ERP modules using PHP and JavaScript
+- **Database Management**: MySQL database design, optimization, and maintenance
+- **Process Automation**: Development of internal tools and integrations to improve operational efficiency
+
+## Previous Work
+
+**Frontend Developer at JoinUs** (Oct 2025 - Apr 2026)  
+Built mobile and web platforms for connecting people with events and communities.
 
 - **Mobile Development**: React Native app with Expo Go, featuring user onboarding, interest selection, profile management with image uploads, and smooth UI interactions
 - **Web Development**: Next.js and Tailwind CSS platform with event discovery, dynamic event pages, category browsing, event listings, and sharing capabilities
-
+  
 ---
 
 **System Administrator / Full-Stack Developer at Pachkov Furniture LTD** (Dec 2025 - Present)  
