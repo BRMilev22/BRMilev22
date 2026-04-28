@@ -81,3 +81,6 @@ Co-developed with Veselin Boyanov
 ---
 
 Open to Junior Software Engineer, Junior Software Developer, and Junior Programmer roles.
+
+
+<a href=""><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"></a>
